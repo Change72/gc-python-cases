@@ -10,3 +10,5 @@ For files under a folder, modify file name or file extension
 #### 3. system path
 Test two package: sys and os to get current path.
 
+#### 4. take a snapshot for huge size file
+Including three functions for file types: .csv, .tar.gz, .zip   
