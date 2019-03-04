@@ -12,3 +12,7 @@ Test two package: sys and os to get current path.
 
 #### 4. take a snapshot for huge size file
 Including three functions for file types: .csv, .tar.gz, .zip   
+
+#### 5. wordcloud
+By using package jieba and wordcloud, making three different way to build wordcloud.
+
