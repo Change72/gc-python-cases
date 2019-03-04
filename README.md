@@ -16,3 +16,7 @@ Including three functions for file types: .csv, .tar.gz, .zip
 #### 5. wordcloud
 By using package jieba and wordcloud, making three different way to build wordcloud.
 
+#### 6. database connection
+This file includes three different database connections, which are mysql, oracle, and postgres.
+
+
